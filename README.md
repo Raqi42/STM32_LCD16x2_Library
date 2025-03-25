@@ -32,6 +32,16 @@ This sequence highlights the advanced functionality of the library and its abili
 - Buzzer and interrupt-driven push button.
 - STM32CubeIDE or other ARM development environments.
 
-### Installation
+### Demo
+
+Below is a summary of the interactive sequence executed in the demo project:
+
+1-Text shifts left → disappears → scrolls from right.
+2-Performs a ping-pong motion → settles in place.
+3-Buzzer indicates start and end of process.
+
+If you have any questions or issues, please reach out via  email. aliqorbanif@gmail.com
+
+
 
 
