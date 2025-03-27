@@ -40,7 +40,9 @@ Below is a summary of the interactive sequence executed in the demo project:
  2.  Performs a ping-pong motion → settles in place.
  3.  Buzzer indicates start and end of process.
 
-If you have any questions or issues, please reach out via  email. aliqorbanif@gmail.com
+
+- step by step video tutorial: https://www.youtube.com/watch?v=yM69uJBZpsA
+- If you have any questions or issues, please reach out via  email. aliqorbanif@gmail.com
 
 
 
